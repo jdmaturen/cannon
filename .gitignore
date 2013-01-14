@@ -1,6 +1,6 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+project/*
+target/*
+lib_managed/*
+*.idea
+*.iml
+.DS_Store
